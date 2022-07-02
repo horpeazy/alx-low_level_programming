@@ -5,15 +5,7 @@
 #include <stdio.h>
 
 
-/*
-
- * main - assigns a random number to int n everytime
-
- * it executes, and prints it
-
- * Return: Always 0 (Success)
-
-*/
+/* This functions runs an if statement */
 
 int main(void)
 
