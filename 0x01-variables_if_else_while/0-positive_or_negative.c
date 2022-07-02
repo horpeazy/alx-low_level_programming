@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 
-/**
+/*
 
  * main - assigns a random number to int n everytime
 
@@ -13,7 +13,7 @@
 
  * Return: Always 0 (Success)
 
- */
+*/
 
 int main(void)
 
